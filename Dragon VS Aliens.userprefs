@@ -1,0 +1,36 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UIHandler.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DontDestroyOnLevelLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BGLooper.cs" Line="12" Column="2" />
+      <File FileName="Assets\Scripts\ButtonControler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoinControler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Destroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyOnCon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DummyForPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EneBultMover.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyFire.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Init.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LeftEnemySpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoadingScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\logotomainu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainMenuButtonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainMenuMusic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Mover.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Music.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MuteUnMute.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PauseMenuButtons.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Tutorial.cs" Line="21" Column="37" />
+      <File FileName="Assets\Scripts\UIHandler.cs" Line="38" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
